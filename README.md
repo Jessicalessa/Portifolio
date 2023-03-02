@@ -8,8 +8,7 @@
 
 </p>
 
-![portifolio-1](https://user-images.githubusercontent.com/93428392/222189605-73d35c62-6d70-4af0-9521-d51885a78a95.png)
-
-![portifolio-2](https://user-images.githubusercontent.com/93428392/222189679-a1eb2d82-2755-4626-93e9-f824316afad1.png)
-
-![portifolio3](https://user-images.githubusercontent.com/93428392/222189717-5bc81ad1-1ca7-4e6a-bcd0-2ac7260d606a.png)
+![portifolio-1](https://user-images.githubusercontent.com/93428392/222458522-019e947b-ed28-4f54-8913-bd4653b23d6e.png)
+![portifolio-2](https://user-images.githubusercontent.com/93428392/222458535-3e60b05b-c71b-426f-ba89-d88c314914d4.png)
+![portifolio3](https://user-images.githubusercontent.com/93428392/222458549-1ef87a2d-2874-4f9f-a994-5a5fc91172c3.png)
+![portifolio-4](https://user-images.githubusercontent.com/93428392/222458555-da37ed01-5470-437b-9eae-031f272f5961.png)
