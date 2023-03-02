@@ -1,0 +1,157 @@
+
+*{background-color: black;
+font-family: 'Times New Roman', Times, serif;
+color: white;
+}
+
+.he {
+    display: -webkit-inline-flex;
+    padding: 3px;
+    left: 0;
+}
+
+.imag {
+    border-radius: 50%;
+    border: solid 3px rgb(19, 5, 77);
+}
+
+
+.paragrafo, .faculdade{
+    border: solid 2px rgb(19, 5, 77);
+    border-radius: 3%;
+}
+
+.paragrafo {
+    color: white;
+    text-align: center;
+    cursor: default;
+}
+
+.faculdade{
+    font-size: 130%;
+    text-align: center;
+    cursor: default;
+}
+
+.links {
+    width: 100%;
+}
+
+#lin {
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    padding-left: 15px;
+}
+
+#lin:hover, .active{
+    color: blue;
+}
+
+#lista {
+    display: inline-block;
+    text-align: center;
+    list-style-type: none;
+}
+
+
+#certi {
+    align-items: center;
+    text-align: center;
+    font-size: 300%;
+    cursor: default;
+}
+
+
+.cursos {
+    display: block;
+    width: 20%;
+    height: 20%;
+    border: solid 5px rgb(19, 5, 77);
+    padding: 5px;
+    margin-top: 3px;
+}
+
+
+.fotos img {
+    max-width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.text {
+    display: flex;
+    float: right;
+}
+
+@media only screen and (min-width:1200px) {
+    .fotos{margin-top: 100px;
+        margin-bottom: 100px;}
+}
+
+
+@media screen and (min-width:1600px) {
+    .cursos:hover, .active {
+        width: 22%;
+        height: 32%;
+    }
+    .fotos img{margin-top: 30px;
+        margin-bottom: 30px;}
+}
+
+
+@media screen and (min-width:1200px) {
+    .cursos:hover, .active {
+        width: 30%;
+        height: 40%;
+    }
+    .fotos img{margin-top: 40px;
+        margin-bottom: 40px;}
+}
+
+
+@media screen and (min-width:400px) {
+    .cursos:hover, .active {
+        width: 70%;
+        height: 90%;
+    }
+}
+
+@media only screen and (max-width:1600px){
+    .paragrafo{font-size: 30px;}
+    h2{font-size: 35px;}
+    .faculdade{font-size: 30px;}
+    #lin {font-size: 40px;}
+    #certi {font-size: 80px;}
+    .imag{width: 350px; height: 400px;}
+    .text {font-size: 220%;}
+}
+
+@media only screen and (max-width:1200px){
+    .paragrafo{font-size: 30px;}
+    h2{font-size: 35px;}
+    .faculdade{font-size: 30px;}
+    #lin {font-size: 32px;}
+    #certi {font-size: 62px;}
+    .imag{width: 260px; height: 300px;}
+    .text {font-size: 200%;}
+}
+
+@media only screen and (max-width:600px){
+    .paragrafo{font-size: 20px; height: 120px;}
+    h2{font-size: 25px;}
+    .faculdade{font-size: 20px;}
+    #lin {font-size: 20px;}
+    #certi {font-size: 40px;}
+    .imag{width: 250px; height: 300px;}
+    .text {font-size: 10%;}
+}
+
+
+@media screen and (max-width:1400px) {
+    .text {font-size: 180%;}
+}
+
+@media screen and (max-width:900px) {
+    .text {font-size: 100%;}
+}
