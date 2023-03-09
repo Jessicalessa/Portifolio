@@ -5,7 +5,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
-
 </p>
 
 ![portifolio-1](https://user-images.githubusercontent.com/93428392/222458522-019e947b-ed28-4f54-8913-bd4653b23d6e.png)
