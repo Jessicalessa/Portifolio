@@ -1,5 +1,10 @@
 
 *{background-color: black;
+    background-image: linear-gradient(
+     to top, 
+     rgba(0,0,0,.8) 0,
+     rgba(0,0,0,0) 60%,
+     rgba(0,0,0,0) 100%);
 font-family: 'Times New Roman', Times, serif;
 color: white;
 }
