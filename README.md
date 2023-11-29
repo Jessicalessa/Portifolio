@@ -1,5 +1,5 @@
 
-<p>Neste portifólio em formato de framework web 100% responsivo, eu coloquei meus certificados de cursos e informações pessoai:</p>
+<p>Neste portifólio em formato de framework web 100% responsivo, contém minhas informações pessoais:</p>
 <p alinhar=esquerda>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
