@@ -1,4 +1,3 @@
-
 <p>Neste portifólio em formato de framework web 100% responsivo, contém minhas informações pessoais:</p>
 <p alinhar=esquerda>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
