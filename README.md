@@ -5,7 +5,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
 </p>
-
 ![portifolio-1](https://user-images.githubusercontent.com/93428392/222458522-019e947b-ed28-4f54-8913-bd4653b23d6e.png)
 ![portifolio-2](https://user-images.githubusercontent.com/93428392/222458535-3e60b05b-c71b-426f-ba89-d88c314914d4.png)
 ![portifolio3](https://user-images.githubusercontent.com/93428392/222458549-1ef87a2d-2874-4f9f-a994-5a5fc91172c3.png)
